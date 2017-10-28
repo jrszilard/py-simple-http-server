@@ -1,4 +1,6 @@
-Py Simple HTTP Server
+Py Simple HTTP Serve
+#New name
+Py HTTP Magician
 =====================
 
 Simple HTTP Server with socket programming with Python 3.
